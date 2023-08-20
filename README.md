@@ -41,4 +41,4 @@ tip：
 ![输入图片说明](https://gitee.com/xiaohudu/questionnaire/raw/master/%E6%88%AA%E5%9B%BE5.jpg)
 
 #### 联系方式
-![输入图片说明](https://gitee.com/xiaohudu/questionnaire/raw/master/%E5%BE%AE%E4%BF%A1.jpg)
+![输入图片说明](%E5%BE%AE%E4%BF%A1.jpg)
